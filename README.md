@@ -19,5 +19,3 @@ The application creates the database from a file called Database.Java
 Default user:root pass:root
 
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
