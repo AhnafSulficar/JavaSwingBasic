@@ -1,4 +1,4 @@
-#Java Swing Application for Student Authentication and Information Collection
+<h2>Java Swing Application for Student Authentication and Information Collection</h2>
 
 This is a Java Swing application that uses JDBC driver to authenticate students login and collect information from them. It was developed as part of the course requirements of a university.
 
